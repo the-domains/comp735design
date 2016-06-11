@@ -1,0 +1,29 @@
+name: comp735design
+favicon: null
+layout_spectrum: 0.1352924674283713
+typography_spectrum: 0.23113053105771542
+title: A focus on comp735 ™ LLC  design.
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.21877591125667095
+  lightness: 0.4011995177716017
+  saturation: 0.6842973551247269
+  rhythmicContrast: 0.9610255877487361
+purpose: []
